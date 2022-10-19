@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "insert.h": "c",
+        "insertafterspecificelem.h": "c",
+        "insertionsort.h": "c",
+        "quicksort.h": "c",
+        "algorithm": "cpp",
+        "checkbrackets.h": "c",
+        "random": "cpp",
+        "arrayimplementationofqueue.h": "c"
+    }
+}
